@@ -4,7 +4,7 @@ This is just a simple docker container for [flower](https://flower.readthedocs.o
 
 Tags available are currently:
 
-    * `0.8.2`, `latest` 
+* `0.8.2`, `latest` 
 
 ## Usage
 
